@@ -1,5 +1,5 @@
-Verificar a versão
-Comando: git --version
+-Verificar a versão
+    Comando: git --version
 
 git init
 git add README.md
@@ -7,3 +7,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/almmatheus/tela-de-login.git
 git push -u origin main
+
+-Criar uma nova branch
+    git branch nome da nova branch
+
+-Mudar de branch
+    git checkout nome da nova branch
